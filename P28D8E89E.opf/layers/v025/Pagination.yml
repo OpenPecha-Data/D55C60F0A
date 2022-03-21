@@ -105,82 +105,82 @@ annotations:
     reference: ''
     span:
       start: 16724
-      end: 17942
+      end: 17941
     note_ref: d314b3c4aecd41dabbbef5511f0ed752
   a63ab958dd7e455a9f541dab89818350:
     imgnum: 1623
     reference: ''
     span:
-      start: 17944
-      end: 19313
+      start: 17943
+      end: 19310
     note_ref: d314b3c4aecd41dabbbef5511f0ed752
   da8ea690326a4b95a653f969e45f9a16:
     imgnum: 1624
     reference: ''
     span:
-      start: 19315
-      end: 20565
+      start: 19312
+      end: 20561
     note_ref: d314b3c4aecd41dabbbef5511f0ed752
   b58c2beff0894899bcf2bb502e988589:
     imgnum: 1625
     reference: ''
     span:
-      start: 20567
-      end: 21790
+      start: 20563
+      end: 21786
     note_ref: d314b3c4aecd41dabbbef5511f0ed752
   7f9bb1e78f174d0c90fb026655fe0e3c:
     imgnum: 1626
     reference: ''
     span:
-      start: 21792
-      end: 22984
+      start: 21788
+      end: 22980
     note_ref: d314b3c4aecd41dabbbef5511f0ed752
   03c85c1b16de4a96b09818beaff57b0b:
     imgnum: 1627
     reference: ''
     span:
-      start: 22986
-      end: 24319
+      start: 22982
+      end: 24315
     note_ref: 7ccc3305df36403980d439666fec87c3
   b3b0f7e91bee4c3b9b5e529511b61120:
     imgnum: 1628
     reference: ''
     span:
-      start: 24321
-      end: 25284
+      start: 24317
+      end: 25280
     note_ref: 7ccc3305df36403980d439666fec87c3
   bf455897e31c4a3680388a979bdacb5d:
     imgnum: 1629
     reference: ''
     span:
-      start: 25286
-      end: 26463
+      start: 25282
+      end: 26459
     note_ref: 7ccc3305df36403980d439666fec87c3
   e0167142bfe24fb9a5f55e491b04382c:
     imgnum: 1630
     reference: ''
     span:
-      start: 26465
-      end: 27185
+      start: 26461
+      end: 27181
     note_ref: 7ccc3305df36403980d439666fec87c3
   15b0ff15745c46ababd396ee8ed391e0:
     imgnum: 1631
     reference: ''
     span:
-      start: 27187
-      end: 28939
+      start: 27183
+      end: 28935
   d314b3c4aecd41dabbbef5511f0ed752:
     imgnum: 1632
     reference: ''
     span:
-      start: 28941
-      end: 31020
+      start: 28937
+      end: 31016
   7ccc3305df36403980d439666fec87c3:
     imgnum: 1633
     reference: ''
     span:
-      start: 31022
-      end: 31563
+      start: 31018
+      end: 31559
 local_ids:
   c108450980324ac597533a0a01315940: 200000
   55953b4a3e6846a2bdee39e59f49cb04: 200001
