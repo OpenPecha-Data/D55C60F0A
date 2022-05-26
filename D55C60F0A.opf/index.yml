@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   6b1633fde58742478da2711601316e23:
     parts: {}
+    work_id: D2205
     span:
-    - vol: 25
+    - base: 9aef
       start: 0
       end: 31560
-    work_id: D2205
